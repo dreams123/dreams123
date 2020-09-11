@@ -1,16 +1,14 @@
-### Hi there 👋
+**自我介绍**
+- 班级：18级信息安全1班
 
-<!--
-**dreams123/dreams123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 姓名：麦倬豪
 
-Here are some ideas to get you started:
+- 学号：3118005377
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 爱好：踢足球
+
+- 专业兴趣：网络安全
+
+- 学习经历：曾在信息安全各个方面四处探索，尝试过逆向分析以及密码学，但最终还是想试试网络安全
+
+- GitHub: [dreams123](https://github.com/dreams123)
